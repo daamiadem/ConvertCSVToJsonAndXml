@@ -1,0 +1,44 @@
+<clients>
+<client>
+   <nom>adem</nom>
+   <prenom>daami</prenom>
+   <dateNaissance>06-10-1998</dateNaissance>
+   <profession>stagiaire</profession>
+</client>
+<client>
+   <nom>flan</nom>
+   <prenom>foulani</prenom>
+   <dateNaissance>15-10-1999</dateNaissance>
+   <profession>ing</profession>
+</client>
+<client>
+   <nom>adem</nom>
+   <prenom>daami</prenom>
+   <dateNaissance>06-10-1998</dateNaissance>
+   <profession>stagiaire</profession>
+</client>
+<client>
+   <nom>mahdi</nom>
+   <prenom>mahdi</prenom>
+   <dateNaissance>10-10-2010</dateNaissance>
+   <profession>medecin</profession>
+</client>
+<client>
+   <nom>kabil</nom>
+   <prenom>test</prenom>
+   <dateNaissance>15-12-2005</dateNaissance>
+   <profession>dentiste</profession>
+</client>
+<client>
+   <nom>mahdi</nom>
+   <prenom>mahdi</prenom>
+   <dateNaissance>05-05-2013</dateNaissance>
+   <profession>medecin</profession>
+</client>
+<client>
+   <nom>sami</nom>
+   <prenom>sliman</prenom>
+   <dateNaissance>02-02-2007</dateNaissance>
+   <profession>stagiaire</profession>
+</client>
+</clients>
