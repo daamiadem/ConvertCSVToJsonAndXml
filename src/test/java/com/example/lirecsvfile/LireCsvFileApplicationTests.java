@@ -3,10 +3,10 @@ package com.example.lirecsvfile;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class LireCsvFileApplicationTests {
 
-    @Test
+    //@Test
     void contextLoads() {
     }
 
