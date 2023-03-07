@@ -2,20 +2,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ArrayList>
   <item>
-    <nom>kabil</nom>
-    <prenom>test</prenom>
-    <dateNaissance>2005</dateNaissance>
-    <dateNaissance>12</dateNaissance>
-    <dateNaissance>15</dateNaissance>
-    <profession>dentiste</profession>
-  </item>
-  <item>
-    <nom>mahdi</nom>
-    <prenom>mahdi</prenom>
-    <dateNaissance>2010</dateNaissance>
+    <nom>adem</nom>
+    <prenom>daami</prenom>
+    <dateNaissance>1998</dateNaissance>
     <dateNaissance>10</dateNaissance>
-    <dateNaissance>10</dateNaissance>
-    <profession>medecin</profession>
+    <dateNaissance>6</dateNaissance>
+    <profession>stagiaire</profession>
   </item>
   <item>
     <nom>sami</nom>
@@ -23,14 +15,6 @@
     <dateNaissance>2007</dateNaissance>
     <dateNaissance>2</dateNaissance>
     <dateNaissance>2</dateNaissance>
-    <profession>stagiaire</profession>
-  </item>
-  <item>
-    <nom>adem</nom>
-    <prenom>daami</prenom>
-    <dateNaissance>1998</dateNaissance>
-    <dateNaissance>10</dateNaissance>
-    <dateNaissance>6</dateNaissance>
     <profession>stagiaire</profession>
   </item>
   <item>
@@ -42,12 +26,12 @@
     <profession>ing</profession>
   </item>
   <item>
-    <nom>mahdi</nom>
-    <prenom>mahdi</prenom>
-    <dateNaissance>2013</dateNaissance>
-    <dateNaissance>5</dateNaissance>
-    <dateNaissance>5</dateNaissance>
-    <profession>medecin</profession>
+    <nom>kabil</nom>
+    <prenom>test</prenom>
+    <dateNaissance>2005</dateNaissance>
+    <dateNaissance>12</dateNaissance>
+    <dateNaissance>15</dateNaissance>
+    <profession>dentiste</profession>
   </item>
   <item>
     <nom>adem</nom>
@@ -56,5 +40,21 @@
     <dateNaissance>10</dateNaissance>
     <dateNaissance>6</dateNaissance>
     <profession>stagiaire</profession>
+  </item>
+  <item>
+    <nom>mahdi</nom>
+    <prenom>mahdi</prenom>
+    <dateNaissance>2010</dateNaissance>
+    <dateNaissance>10</dateNaissance>
+    <dateNaissance>10</dateNaissance>
+    <profession>medecin</profession>
+  </item>
+  <item>
+    <nom>mahdi</nom>
+    <prenom>mahdi</prenom>
+    <dateNaissance>2013</dateNaissance>
+    <dateNaissance>5</dateNaissance>
+    <dateNaissance>5</dateNaissance>
+    <profession>medecin</profession>
   </item>
 </ArrayList>
