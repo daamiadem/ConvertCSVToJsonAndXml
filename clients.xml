@@ -1,44 +1,60 @@
-<clients>
-<client>
-   <nom>adem</nom>
-   <prenom>daami</prenom>
-   <dateNaissance>06-10-1998</dateNaissance>
-   <profession>stagiaire</profession>
-</client>
-<client>
-   <nom>flan</nom>
-   <prenom>foulani</prenom>
-   <dateNaissance>15-10-1999</dateNaissance>
-   <profession>ing</profession>
-</client>
-<client>
-   <nom>adem</nom>
-   <prenom>daami</prenom>
-   <dateNaissance>06-10-1998</dateNaissance>
-   <profession>stagiaire</profession>
-</client>
-<client>
-   <nom>mahdi</nom>
-   <prenom>mahdi</prenom>
-   <dateNaissance>10-10-2010</dateNaissance>
-   <profession>medecin</profession>
-</client>
-<client>
-   <nom>kabil</nom>
-   <prenom>test</prenom>
-   <dateNaissance>15-12-2005</dateNaissance>
-   <profession>dentiste</profession>
-</client>
-<client>
-   <nom>mahdi</nom>
-   <prenom>mahdi</prenom>
-   <dateNaissance>05-05-2013</dateNaissance>
-   <profession>medecin</profession>
-</client>
-<client>
-   <nom>sami</nom>
-   <prenom>sliman</prenom>
-   <dateNaissance>02-02-2007</dateNaissance>
-   <profession>stagiaire</profession>
-</client>
-</clients>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<ArrayList>
+  <item>
+    <nom>kabil</nom>
+    <prenom>test</prenom>
+    <dateNaissance>2005</dateNaissance>
+    <dateNaissance>12</dateNaissance>
+    <dateNaissance>15</dateNaissance>
+    <profession>dentiste</profession>
+  </item>
+  <item>
+    <nom>mahdi</nom>
+    <prenom>mahdi</prenom>
+    <dateNaissance>2010</dateNaissance>
+    <dateNaissance>10</dateNaissance>
+    <dateNaissance>10</dateNaissance>
+    <profession>medecin</profession>
+  </item>
+  <item>
+    <nom>sami</nom>
+    <prenom>sliman</prenom>
+    <dateNaissance>2007</dateNaissance>
+    <dateNaissance>2</dateNaissance>
+    <dateNaissance>2</dateNaissance>
+    <profession>stagiaire</profession>
+  </item>
+  <item>
+    <nom>adem</nom>
+    <prenom>daami</prenom>
+    <dateNaissance>1998</dateNaissance>
+    <dateNaissance>10</dateNaissance>
+    <dateNaissance>6</dateNaissance>
+    <profession>stagiaire</profession>
+  </item>
+  <item>
+    <nom>flan</nom>
+    <prenom>foulani</prenom>
+    <dateNaissance>1999</dateNaissance>
+    <dateNaissance>10</dateNaissance>
+    <dateNaissance>15</dateNaissance>
+    <profession>ing</profession>
+  </item>
+  <item>
+    <nom>mahdi</nom>
+    <prenom>mahdi</prenom>
+    <dateNaissance>2013</dateNaissance>
+    <dateNaissance>5</dateNaissance>
+    <dateNaissance>5</dateNaissance>
+    <profession>medecin</profession>
+  </item>
+  <item>
+    <nom>adem</nom>
+    <prenom>daami</prenom>
+    <dateNaissance>1998</dateNaissance>
+    <dateNaissance>10</dateNaissance>
+    <dateNaissance>6</dateNaissance>
+    <profession>stagiaire</profession>
+  </item>
+</ArrayList>

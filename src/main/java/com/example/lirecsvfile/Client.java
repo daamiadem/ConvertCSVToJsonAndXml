@@ -3,13 +3,13 @@ package com.example.lirecsvfile;
 import java.time.LocalDate;
 import java.util.Date;
 
-public class client {
+public class Client {
     private String nom;
     private String prenom;
-    private String dateNaissance;
+    private LocalDate dateNaissance;
     private  String profession ;
 
-    public client(String nom, String prenom, String dateNaissance, String profession) {
+    public Client(String nom, String prenom, LocalDate dateNaissance, String profession) {
         this.nom = nom;
         this.prenom = prenom;
         this.dateNaissance = dateNaissance;
@@ -34,11 +34,11 @@ public class client {
         this.prenom = prenom;
     }
 
-    public String getDateNaissance() {
+    public LocalDate getDateNaissance() {
         return dateNaissance;
     }
 
-    public void setDateNaissance(String dateNaissance) {
+    public void setDateNaissance(LocalDate dateNaissance) {
         this.dateNaissance = dateNaissance;
     }
 
@@ -49,4 +49,5 @@ public class client {
     public void setProfession(String profession) {
         this.profession = profession;
     }
+
 }

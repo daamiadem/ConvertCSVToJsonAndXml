@@ -1,1 +1,36 @@
-{"nom":"adem","prenom":"daami","dateNaissance"{"nom":"adem","prenom":"daami","dateNaissance":"06-10-1998","profession":"stagiaire"}{"nom":"flan","prenom":"foulani","dateNaissance":"15-10-1999","profession":"ing"}{"nom":"adem","prenom":"daami","dateNaissance":"06-10-1998","profession":"stagiaire"}{"nom":"mahdi","prenom":"mahdi","dateNaissance":"10-10-2010","profession":"medecin"}{"nom":"kabil","prenom":"test","dateNaissance":"15-12-2005","profession":"dentiste"}{"nom":"mahdi","prenom":"mahdi","dateNaissance":"05-05-2013","profession":"medecin"}{"nom":"sami","prenom":"sliman","dateNaissance":"02-02-2007","profession":"stagiaire"}
+[ {
+  "nom" : "kabil",
+  "prenom" : "test",
+  "dateNaissance" : [ 2005, 12, 15 ],
+  "profession" : "dentiste"
+}, {
+  "nom" : "mahdi",
+  "prenom" : "mahdi",
+  "dateNaissance" : [ 2010, 10, 10 ],
+  "profession" : "medecin"
+}, {
+  "nom" : "sami",
+  "prenom" : "sliman",
+  "dateNaissance" : [ 2007, 2, 2 ],
+  "profession" : "stagiaire"
+}, {
+  "nom" : "adem",
+  "prenom" : "daami",
+  "dateNaissance" : [ 1998, 10, 6 ],
+  "profession" : "stagiaire"
+}, {
+  "nom" : "flan",
+  "prenom" : "foulani",
+  "dateNaissance" : [ 1999, 10, 15 ],
+  "profession" : "ing"
+}, {
+  "nom" : "mahdi",
+  "prenom" : "mahdi",
+  "dateNaissance" : [ 2013, 5, 5 ],
+  "profession" : "medecin"
+}, {
+  "nom" : "adem",
+  "prenom" : "daami",
+  "dateNaissance" : [ 1998, 10, 6 ],
+  "profession" : "stagiaire"
+} ]
